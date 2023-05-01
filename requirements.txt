@@ -1,4 +1,4 @@
-Flask===1.1.2
+Flask===2.3.2
 pymessenger==0.0.7.0
 wit==5.1.0
 pymemcache==2.1.1
